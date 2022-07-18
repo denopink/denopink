@@ -6,8 +6,7 @@
 ## Github Stats
 
 ![denopink's GitHub stats](https://github-readme-stats.vercel.app/api?username=denopink&show_icons=true&theme=panda)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denopink&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denopink&layout=compact&show_icons=true&theme=panda)
 <!--
 **denopink/denopink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
