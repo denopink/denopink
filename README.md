@@ -1,4 +1,12 @@
 ### Hi there 👋
+[![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://github.com/denopink?tab=repositories&q=&type=&language=go)
+[![Rust](https://img.shields.io/badge/-Rust-000?&logo=go)](https://github.com/denopink?tab=repositories&q=&type=&language=rust)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/denopink?tab=repositories&q=&type=&language=python)
+
+## Github Stats
+
+![denopink's GitHub stats](https://github-readme-stats.vercel.app/api?username=denopink&show_icons=true&theme=panda)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denopink&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 <!--
 **denopink/denopink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
