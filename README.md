@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 [LinkedIn](https://www.linkedin.com/in/ocaba/)
+
 [The Rookies](https://www.therookies.co/projects/22349)
 
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://github.com/denopink?tab=repositories&q=&type=&language=go)
