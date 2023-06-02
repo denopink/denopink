@@ -31,17 +31,13 @@ Computer Science & Mathematics, B.S • Dec 2018 • Temple University
 #### ENG 2, SOFTWARE DEV • COMCAST- Xmidt/Webpa, PHILADELPHIA• MARCH 2022 – Current
 • Golang backend developer for highly scalable opensource IoT management related softwares such as xmidt, webpa, codex
 
-#### ENG 2, SOFTWARE DEV • COMCAST- Xmidt/Webpa, PHILADELPHIA• MARCH 2022 – Current
-• Golang backend developer for highly scalable opensource IoT management related softwares such as xmidt, webpa, codex
-
 #### ENG 2, SOFTWARE DEV & ENGINEERING, MACHINE LEARNING• COMCAST- DATA NETWORK SERVICES & PRODUCTS, PHILADELPHIA• JAN 2019 – MARCH 2022
 • Developer lead for the inner-source AMP project, a ML platform for ML application
 development & orchestration
 • Data science lead for the virtual service gateway (VSG) usage anomaly detection project, used to detect usage byte counting anomalies of cm/cmts/vsg and later expanding the solution to detect anomalies/major deviations in dscp usage/ip family usage
 • Designed and implemented a scalable monitoring tool for Comcast’s business and residential voice services’ application servers using SNMP Trap data
 
-#### ENGINEERING & TECHNOLOGY INTERN, MACHINE LEARNING• COMCAST- NETWORK
-SERVICE & ANALYSIS, PHILADELPHIA• MAY 2017 – DECEMBER 2018
+#### ENGINEERING & TECHNOLOGY INTERN, MACHINE LEARNING• COMCAST- NETWORK SERVICE & ANALYSIS, PHILADELPHIA• MAY 2017 – DECEMBER 2018
 • Developed a ML application that detects real-time network anomalies, abnormal packet loss,
 between Data-Centers and Cloud-RAN using IP SLA probe data
 • Developed a tool that analyzes Comcast’s backbone health and predicts several network anomalies 5 minutes in advance with high precision and recall using WLA2 probe data
