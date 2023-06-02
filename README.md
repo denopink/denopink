@@ -7,7 +7,7 @@
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://github.com/denopink?tab=repositories&q=&type=&language=go)
 [![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)](https://github.com/denopink?tab=repositories&q=&type=&language=rust)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/denopink?tab=repositories&q=&type=&language=python)
-[![C++](https://img.shields.io/badge/-cplusplus-000?&logo=cplusplus)](https://github.com/denopink?tab=repositories&q=&type=&language=cplusplus)
+[![C++](https://img.shields.io/badge/-c++-000?&logo=cplusplus)](https://github.com/denopink?tab=repositories&q=&type=&language=cplusplus)
 
 <details>
   <summary>Skills</summary>
