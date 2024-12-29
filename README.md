@@ -19,7 +19,8 @@ Machine Learning, Exploratory Data Analysis, Python, Git, Golang, Rust, C++, Unr
 
 Computer Science & Mathematics, B.S • Dec 2018 • Temple University
 </details>
-<details>
+
+
 
 ## Github Stats
 
